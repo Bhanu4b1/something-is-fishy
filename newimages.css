@@ -1,0 +1,54 @@
+.cardbody
+{
+   border-style: dotted;
+   border: 2px solid yellowgreen;
+   padding: 1%;
+   margin: 1%;
+   width: auto;
+}
+.a
+{
+    color: rgb(209, 117, 101);
+}
+.h
+{
+    color: rgb(255, 255, 255);
+}
+.y
+{
+    color: rgb(120, 209, 112);
+}
+button
+{
+    color: yellow;
+    padding: 2;
+    background-color: rgb(51, 46, 46);
+    width: 150px;
+    height: 60px;
+    shape-margin: 5px;
+}
+.card
+{
+    display: flexbox;
+    flex-direction: row;
+}
+.card
+{
+    width: 450px;
+    height: auto;
+}
+.card img
+{
+    height: auto;
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
